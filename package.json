@@ -1,0 +1,18 @@
+{
+  "name": "sunnyside-agency",
+  "version": "1.0.0",
+  "description": "junior challenge (frontendmentor.io)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Mic-Saw"
+  },
+  "author": "Michał Sawicki",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
